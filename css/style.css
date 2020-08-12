@@ -41,12 +41,9 @@ html, body {
 
 form {
     background-color: white;
-    width: 94%;
+    width: calc(94% - 32px);
     max-width: 400px;
-    padding: 60px 2%;
-    height: 60%;
-    min-height: 380px;
-    max-height: 700px;
+    padding: 80px 2%;
     border: 4px solid rgb(210, 210, 210);
     position: absolute;
     top: 50%;
