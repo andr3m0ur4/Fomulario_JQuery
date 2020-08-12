@@ -58,6 +58,7 @@ form input[type=text], form input[type=email], form input[type=tel] {
     padding-left: 8px;
     border: 1px solid #ccc;
     margin-bottom: 20px;
+    outline: 0;
 }
 
 form button {
